@@ -1,4 +1,13 @@
 # Algorithm_04
+//select_model(2)
 ![image](https://user-images.githubusercontent.com/101245448/173539631-438e8c01-e2b1-461f-9970-ea1179f7ed77.png)
 ![image](https://user-images.githubusercontent.com/101245448/173539788-fd3b15d8-0fd6-40a1-a176-b24269a0a327.png)
 ![image](https://user-images.githubusercontent.com/101245448/173539903-43f8c52e-9656-42b7-8eb9-8b335a23ccaf.png)
+//select_model(3)
+![image](https://user-images.githubusercontent.com/101245448/173540267-a22f24d3-0e94-4169-8c93-70a7122ac4dc.png)
+![image](https://user-images.githubusercontent.com/101245448/173540331-054d608c-661c-4611-85b3-a575466f5020.png)
+![image](https://user-images.githubusercontent.com/101245448/173540373-0b7dc2bf-1355-40d2-aec9-43295118ffba.png)
+//select_model(1)
+![image](https://user-images.githubusercontent.com/101245448/173540476-d8da6f4c-e0c0-4b1a-a0ce-e2fb9f781ae0.png)
+![image](https://user-images.githubusercontent.com/101245448/173540508-d23d055d-f13e-4d0a-83bb-3db64333199a.png)
+![image](https://user-images.githubusercontent.com/101245448/173540551-af3b85e5-09a2-43cd-b9a8-28ab37783153.png)
